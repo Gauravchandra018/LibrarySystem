@@ -1,0 +1,21 @@
+# Ignore compiled class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore logs
+*.log
+
+# Ignore IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
